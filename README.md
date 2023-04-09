@@ -11,4 +11,6 @@ flow past single , multiple obstalces of various shapes
 
 Move to non-isothermal flows starting with natural convection/Rayleigh bernard convection , forced convection , mixed convection
 
-Than I moved to aeroacoustics , slip flows , MHD natural convection , electro kinetic flows , EHD , ETHD
+Than I moved to aeroacoustics , slip flows , MHD natural convection , electro kinetic flows , EHD , ETHD , conjugate heat transfer.
+
+There are lot more areas where it can be applied , next will be taking up multiphase ,multicomponent flows
