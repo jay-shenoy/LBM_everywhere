@@ -13,4 +13,5 @@ Move to non-isothermal flows starting with natural convection/Rayleigh bernard c
 
 Than I moved to aeroacoustics , slip flows , MHD natural convection , electro kinetic flows , EHD , ETHD , conjugate heat transfer, Double diffusive natural convection.
 
-There are lot more areas where it can be applied , next will be taking up multiphase ,multicomponent flows
+There are lot more areas where it can be applied ,be it multiphase ,multicomponent flows , flow of non-newtonian fluids , flow in porous media.
+Will be covering them , hopefulluy by end of this year
