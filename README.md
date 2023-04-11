@@ -1,9 +1,7 @@
 This space is for someone who wants to learn LBM Hands-on
-
-LBM can be applied to lot of areas.
-
 This covers my journey , solvers developed by me.
 
+LBM can be applied to lot of areas.
 I would suggest you to start with solving diffusion equation.
 
 Later do isothermal flows like couette flow , flow in channel with various boundary conditions , lid driven cavity
