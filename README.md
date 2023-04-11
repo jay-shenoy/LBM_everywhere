@@ -6,7 +6,7 @@ This covers my journey , solvers developed by me.
 
 I would suggest you to start with solving diffusion equation.
 
-Later do isothermal flows like couette flow , flow in channel with various bc , lid driven cavity
+Later do isothermal flows like couette flow , flow in channel with various boundary conditions , lid driven cavity
 flow past single , multiple obstalces of various shapes
 
 Move to non-isothermal flows starting with natural convection/Rayleigh bernard convection , forced convection , mixed convection
