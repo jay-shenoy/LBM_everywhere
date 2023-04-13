@@ -14,6 +14,7 @@ Move to non-isothermal flows starting with natural convection/Rayleigh bernard c
 Than I moved to aeroacoustics , slip flows , MHD natural convection , electro kinetic flows , EHD , ETHD , conjugate heat transfer, Double diffusive natural convection.
 
 Can LBM do turbulent flows or turbulence modelling ?
+
 Yes , It is not as hard as traditional turbulence modelling.
 It can do LES , k-epsilon 
 
