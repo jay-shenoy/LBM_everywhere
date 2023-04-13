@@ -20,4 +20,4 @@ Yes , It is not as hard as traditional turbulence modelling.
 It can do LES , k-epsilon 
 
 There are lot more areas left to be explored by me ,be it multiphase ,multicomponent flows , flow of non-newtonian fluids , flow in porous media , image processing
-Writing report for all my work , adding notes will also be done for learners
+Writing report for all my work , adding notes is also on my to do list.
