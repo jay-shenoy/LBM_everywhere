@@ -16,6 +16,7 @@ Than I moved to aeroacoustics , slip flows , MHD natural convection , electro ki
 Can LBM do turbulent flows or turbulence modelling ?
 
 Yes , It is not as hard as traditional turbulence modelling.
+
 It can do LES , k-epsilon 
 
 There are lot more areas left to be explored by me ,be it multiphase ,multicomponent flows , flow of non-newtonian fluids , flow in porous media , image processing
