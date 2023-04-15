@@ -21,6 +21,7 @@ It can do LES , k-epsilon
 
 Doing flow of non-newtonian /power law  fluid is similar to turbulence modelling.
 Viscosity/relaxation is computed locally using strain rate tensor (which happens to be second order moment)
+
 One more advantage is avoiding computing velocity gradients
 
 There are lot more areas left to be explored by me ,be it multiphase ,multicomponent flows , flow in porous media , image processing
