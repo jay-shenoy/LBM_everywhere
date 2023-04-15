@@ -19,6 +19,10 @@ Yes , It is not as hard as traditional turbulence modelling.
 
 It can do LES , k-epsilon 
 
-There are lot more areas left to be explored by me ,be it multiphase ,multicomponent flows , flow of non-newtonian fluids , flow in porous media , image processing
+Doing flow of non-newtonian /power law  fluid is similar to turbulence modelling.
+Viscosity/relaxation is computed locally using strain rate tensor (which happens to be second order moment)
+One more advantage is avoiding computing velocity gradients
+
+There are lot more areas left to be explored by me ,be it multiphase ,multicomponent flows , flow in porous media , image processing
 
 Writing report for all my work is also on my to do list.
