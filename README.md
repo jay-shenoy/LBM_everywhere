@@ -4,7 +4,7 @@ This covers my journey , solvers developed by me.
 
 LBM can be applied to lot of areas.
 
-I would suggest begineer to start with solving diffusion equation.
+I would suggest begineer to start with solving diffusion equation.(There is hand calculation available to give more clarity)
 
 Later do isothermal flows like couette flow , flow in channel with various boundary conditions , lid driven cavity
 flow past single , multiple obstalces of various shapes
