@@ -8,7 +8,7 @@ It is just collision , streaming , equilibrium , moments.
 
 I would suggest begineer to start with solving diffusion equation.(There is hand calculation available to give more clarity)
 
-Later do isothermal flows like couette flow , flow in channel with various boundary conditions , lid driven cavity
+Later do isothermal flows like couette flow , flow in channel with various boundary conditions , lid driven cavity ,
 flow past single , multiple obstalces of various shapes
 
 Move to non-isothermal flows starting with natural convection/Rayleigh bernard convection , forced convection , mixed convection
