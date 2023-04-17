@@ -1,8 +1,10 @@
+## LBM Everywhere 
 This space is for someone who wants to learn LBM Hands-on.
 
 This covers my journey , solvers developed by me.
 
-LBM can be applied to lot of areas.
+LBM can be applied to lot of areas. 
+It is just collision , streaming , equilibrium , moments.
 
 I would suggest begineer to start with solving diffusion equation.(There is hand calculation available to give more clarity)
 
