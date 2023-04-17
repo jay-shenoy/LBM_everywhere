@@ -26,6 +26,7 @@ Viscosity/relaxation is computed locally using strain rate tensor (which happens
 advantage is avoiding computing velocity gradients
 
 
-There are lot more areas left to be explored by me ,be it multiphase ,multicomponent flows , flow in porous media , image processing
+## Area left to explored ?
+Multiphase ,multicomponent flows , flow in porous media , image processing.
 
 Writing report for all my work is also on my to do list.
