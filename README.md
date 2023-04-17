@@ -2,6 +2,7 @@
 This space is for someone who wants to learn LBM Hands-on.
 
 This covers my journey , solvers developed by me.
+I am average , so I beleive anyone can do LBM if provided with proper material for learning
 
 LBM can be applied to lot of areas. 
 It is just collision , streaming , equilibrium , moments.
