@@ -29,6 +29,6 @@ advantage is avoiding computing velocity gradients
 
 
 ## Area left to explored ?
-Multiphase ,multicomponent flows , flow in porous media , image processing which is lined up next
+Multiphase ,multicomponent flows , flow in porous media , image processing , Battery simulation , combustion , Fire dynamics which is lined up next
 
 Writing report for all my work is also on my to do list.
