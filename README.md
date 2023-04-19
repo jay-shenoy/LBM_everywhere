@@ -9,8 +9,11 @@ LBM can be applied to lot of areas.
 It is just collision , streaming , equilibrium , moments.
 
 In STR/BGK , collision is between probability distribution functions
+
 In MRT , collision is between raw moments.
+
 In Cascade , collison is between central moments.
+
 In Cumulants , collision is between cumulants.
 
 I would suggest begineer to start with solving diffusion equation.(There is hand calculation available to give more clarity)
