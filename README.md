@@ -22,6 +22,8 @@ Move to non-isothermal flows starting with natural convection/Rayleigh bernard c
 
 Than I moved to aeroacoustics , slip flows , MHD natural convection , Nano fluids , Ferro fluids , electro kinetic flows , EHD , ETHD , conjugate heat transfer, Double diffusive natural convection.
 
+I have also done isothermal , non-isothermal VP-LBM where bounce back on obstacle(no slip BC or in general dirichlet BC) can be avoided using external force.
+
 ## Can LBM do turbulent flows or turbulence modelling ?
 
 Yes , It is not as hard as traditional turbulence modelling.
