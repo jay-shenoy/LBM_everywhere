@@ -8,7 +8,7 @@ I am average , so I beleive anyone can do LBM if provided with proper material f
 LBM can be applied to lot of areas. 
 It is just collision , streaming , equilibrium , moments.
 
-In STR/BGK , collision is between probability distribution functions
+In STR/BGK , collision is between probability distribution functions/ single particle velocity distribution function
 
 In MRT , collision is between raw moments.
 
