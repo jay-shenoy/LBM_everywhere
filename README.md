@@ -31,7 +31,7 @@ I have also done isothermal , non-isothermal VP-LBM where bounce back on obstacl
 
 Yes , It is not as hard as traditional turbulence modelling.
 
-It can do LES , k-epsilon 
+It can do LES , k-epsilon (RANS) or even hybrid.
 
 ## Can LBM do flow of power law fluids ?
 
