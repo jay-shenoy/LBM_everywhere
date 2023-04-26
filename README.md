@@ -49,4 +49,9 @@ Writing report for all my work is also on my to do list.
 Who taught me LBM ?
 I am nowhere near them.
 
-All credit goes to Prof Dr. Krafczyk (my first mentor in life ) , Prof Dr Geier (for FREE lecture series)
+All credit goes to Prof Dr. Krafczyk (my first mentor in life )
+I do miss him , remember all his advice like explaining things to layman , setting time for problems & moving on.
+Had hard time in Germany(bad luck due to weather , food)
+
+Prof Dr Geier (for FREE lecture series)
+
