@@ -44,3 +44,9 @@ advantage is avoiding computing velocity gradients
 Multiphase ,multicomponent flows , flow in porous media , image processing , Battery simulation , combustion , Schrodinger equation ,Fire dynamics.
 
 Writing report for all my work is also on my to do list.
+
+## Credits 
+Who taught me LBM ?
+I am nowhere near them.
+
+All credit goes to Prof Dr. Krafczyk (my first mentor in life ) , Prof Dr Geier (for FREE lecture series)
