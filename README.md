@@ -56,6 +56,6 @@ I do miss him , remember all his advice like explaining things to layman , setti
 
 Had hard time in Germany(bad luck due to weather , cooking which I was not used to earlier)
 
-Prof Dr Geier (for FREE lecture series)
+Prof Dr Geier (for top class FREE lecture series)
 https://www.youtube.com/@tubs-irmb6980
 
