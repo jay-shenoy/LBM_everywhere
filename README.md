@@ -52,7 +52,7 @@ I am nowhere near them.
 All credit goes to Prof Dr. Krafczyk (my first mentor in life, never found anyone in my country )
 For free materials
 
-I do miss him , remember all his advice like explaining things to layman , setting time for problems & moving on.
+I do miss him , remember all his advice like explaining things to layman , setting time for problems & moving on , focus.
 
 Had hard time in Germany(bad luck due to weather , cooking which I was not used to earlier)
 
