@@ -16,6 +16,10 @@ In Cascade , collison is between central moments.
 
 In Cumulants , collision is between cumulants.
 
+In Regularized LBM , collision operator is modified.
+
+To get rid of collision operator researchers have also come up with Lattice kinetic schemes(LKS) , MACLAB.
+
 I would suggest begineer to start with solving diffusion equation.(There is hand calculation available to give more clarity)
 
 Later do isothermal flows like couette flow , flow in channel with various boundary conditions , lid driven cavity ,
