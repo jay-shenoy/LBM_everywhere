@@ -60,6 +60,7 @@ I do miss him , remember all his advice like explaining things to layman , setti
 
 Had hard time in Germany(bad luck due to weather , cooking which I was not used to earlier)
 
-Prof Dr Geier (for top class FREE lecture series)
+Prof Dr Geier who is one of few researcher with expertise in fire simulation , developer of cumulant , cascade operator
+(His top class FREE lecture series)
 https://www.youtube.com/@tubs-irmb6980
 
