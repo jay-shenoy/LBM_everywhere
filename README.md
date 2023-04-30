@@ -54,7 +54,8 @@ Who taught me LBM ?
 I am nowhere near them.
 
 All credit goes to Prof Dr. Krafczyk (my first mentor in life, never found anyone in my country )
-For free materials
+
+For free materials , replying to emails inspite of holding such top positions
 
 I do miss him , remember all his advice like explaining things to layman , setting time for problems & moving on , focus.
 
