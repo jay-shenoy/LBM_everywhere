@@ -64,6 +64,7 @@ I do miss him , remember all his advice like explaining things to layman , setti
 Had hard time in Germany(bad luck due to weather , cooking which I was not used to earlier)
 
 Prof Dr Geier who is one of few researcher with expertise in fire simulation , developer of cumulant , cascade operator
+
 According to him only cumulant collison operator is right way to do LBM (reference lectures)
 
 (His top class FREE lecture series with hands on expereince)
