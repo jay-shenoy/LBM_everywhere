@@ -23,7 +23,7 @@ To get rid of collision operator (which is reason for instability) researchers h
 
 I would suggest begineer to start with solving diffusion equation.(There is hand calculation available to give more clarity , algorithm is also explained)
 
-Later do isothermal flows like couette flow , flow in channel with various boundary conditions , lid driven cavity ,
+Later do  1d shock wave , isothermal flows like couette flow , flow in channel with various boundary conditions , lid driven cavity ,
 flow past single , multiple obstalces of various shapes
 
 Move to non-isothermal flows starting with natural convection/Rayleigh bernard convection , forced convection , mixed convection
