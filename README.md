@@ -13,6 +13,8 @@ All digital particles are relaxed at same rate hence the name Single.
 
 In MRT , collision is between raw moments.
 
+In Entropic ,  which is based on H-theorem there are two terms to control collision , equilbrium df is modified.
+
 In Cascade , collison is between central moments.
 
 In Cumulants , collision is between cumulants.
