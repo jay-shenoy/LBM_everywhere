@@ -23,7 +23,7 @@ In Regularized LBM , collision operator is modified.
 
 To get rid of collision operator (which is reason for instability) researchers have also come up with Lattice kinetic schemes(LKS) , MACLAB where relaxation is fixed to 1 , equilibrium distribution function is altered
 
-I would suggest begineer to start with solving diffusion equation.(There is hand calculation available to give more clarity , algorithm is also explained)
+I would suggest beginner to start with solving diffusion equation.(There is hand calculation available to give more clarity , algorithm is also explained)
 
 Later do  1d shock wave , isothermal flows like couette flow , flow in channel with various boundary conditions , lid driven cavity ,
 flow past single , multiple obstalces of various shapes
