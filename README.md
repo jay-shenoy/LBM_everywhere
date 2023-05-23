@@ -30,7 +30,7 @@ flow past single , multiple obstalces of various shapes
 
 Move to non-isothermal flows starting with natural convection/Rayleigh bernard convection , forced convection , mixed convection
 
-Than I moved to aeroacoustics , slip flows(TMAC ,combination of bounce back , specular bc) ,natural convection with (MHD, Nano fluids , Ferro fluids) , electro kinetic flows , EHD , ETHD , conjugate heat transfer, Double diffusive natural convection.
+Than I moved to aeroacoustics , slip flows(TMAC ,combination of bounce back , specular bc) ,natural convection with (MHD, Nano fluids , Ferro fluids) , electro kinetic flows , EHD , ETHD , conjugate heat transfer, Double diffusive natural convection , phase change/Melting natural convection.
 
 I have also done isothermal , non-isothermal VP-LBM where bounce back on obstacle(no slip BC or in general dirichlet BC) can be avoided using external force.
 
