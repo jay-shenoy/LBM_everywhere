@@ -12,6 +12,7 @@ In STR/BGK , collision is between probability distribution functions/ single par
 All digital particles are relaxed at same rate hence the name Single.
 
 In MRT , collision is between raw moments.
+Relaxation is different hence the name multi
 
 In Entropic ,  which is based on H-theorem there are two terms to control collision/relaxation , equilbrium df is modified.
 
@@ -32,6 +33,8 @@ Move to non-isothermal flows starting with natural convection/Rayleigh bernard c
 
 Than I moved to aeroacoustics , slip flows(TMAC ,combination of bounce back , specular bc) ,natural convection with (MHD, Nano fluids , Ferro fluids) , electro kinetic flows , EHD , ETHD , conjugate heat transfer, Double diffusive natural convection , phase change/Melting natural convection.
 
+Recently I have been applied LB models for climate studies.
+
 I have also done isothermal , non-isothermal VP-LBM where bounce back on obstacle(no slip BC or in general dirichlet BC) can be avoided using external force.
 
 There is alternate to bounce back BC which is counter slip , it can even handle non-linear robin BC (radiation BC). I have also written codes for this as well
@@ -50,7 +53,7 @@ advantage is avoiding computing velocity gradients
 
 
 ## Area left to explored ?
-Multiphase ,multicomponent flows , flow in porous media , image processing , Battery simulation , combustion , Schrodinger equation ,Fire dynamics.
+Image processing , Battery simulation , combustion , Schrodinger equation ,Fire dynamics.
 
 Writing report for all my work is also on my to do list.
 
