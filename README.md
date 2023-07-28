@@ -36,7 +36,7 @@ Than I moved to aeroacoustics , slip flows(TMAC ,combination of bounce back , sp
 I have also done isothermal , non-isothermal VP-LBM where bounce back on obstacle(no slip BC or in general dirichlet BC) can be avoided using external force.
 There is alternate to bounce back BC which is counter slip , it can even handle non-linear robin BC (radiation BC). I have also written codes for this as well
 
-## Recently I have been applied LB models for climate studies during my doctoral research
+## Currently I have been applying LB models for climate studies during my doctoral research
 
 ## Can LBM do turbulent flows or turbulence modelling ?
 
