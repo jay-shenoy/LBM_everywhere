@@ -54,7 +54,7 @@ advantage is avoiding computing velocity gradients
 ## Area left to explored ?
 Image processing , Battery simulation , combustion , Schrodinger equation ,Fire dynamics.
 
-Writing report for all my work is also on my to do list.
+Writing report , adding all my solvers is also on my to do list.
 
 ## Credits 
 Who taught me LBM ?
