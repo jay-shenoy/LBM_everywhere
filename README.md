@@ -75,3 +75,6 @@ According to him only cumulant collison operator is right way to do LBM (referen
 (His top class FREE lecture series with hands on expereince)
 https://www.youtube.com/@tubs-irmb6980
 
+## Things to do (May be by 2024 it will be ready)
+Add all other solvers be it ETHD , osmotic flows , aeroacoustics , power law fluids , LES 
+
