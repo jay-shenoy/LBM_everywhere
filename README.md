@@ -76,5 +76,7 @@ According to him only cumulant collison operator is right way to do LBM (referen
 https://www.youtube.com/@tubs-irmb6980
 
 ## Things to do (May be by 2024 it will be ready)
+Added is 3D diffusion solver which can be used as base to do any 3D simulation using LBM , it uses D3Q15 lattice model.
+
 Add all other solvers be it ETHD , osmotic flows , aeroacoustics , power law fluids , LES 
 
