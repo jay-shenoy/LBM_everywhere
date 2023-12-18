@@ -37,6 +37,7 @@ I have also done isothermal , non-isothermal VP-LBM where bounce back on obstacl
 There is alternate to bounce back BC which is counter slip , it can even handle non-linear robin BC (radiation BC). I have also written codes for this as well
 
 ## Currently I have been applying LB models for climate studies during my doctoral research
+Available is videos of cylinder turning to cone(just one of my recent works)
 
 ## Can LBM do turbulent flows or turbulence modelling ?
 
